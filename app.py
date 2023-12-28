@@ -7,6 +7,8 @@ based on their preferences.'''
 from flask import Flask, request, render_template
 
 
+
+
 app = Flask(__name__)
 
 # Sample user preferences data (you can replace this with a real database)
